@@ -2,3 +2,5 @@ loguru
 ffmpeg
 pyzam
 telebot
+schedule
+subprocess
