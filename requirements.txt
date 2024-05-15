@@ -1,0 +1,4 @@
+loguru
+ffmpeg
+pyzam
+telebot
